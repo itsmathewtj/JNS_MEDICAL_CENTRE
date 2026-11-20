@@ -1,0 +1,7 @@
+  =>  Site Name    : JNS medical Centre
+
+  =>  Site License : Mathew TJ
+
+  =>  Template Author  : Mathew TJ
+
+  =>  Author Website   : https://itsmathewtj.github.io/TWODLE_MEDIA/
